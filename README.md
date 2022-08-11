@@ -1,4 +1,4 @@
-# Breast_Canser_SVM-Support_vector_machin
+# Breast_Canser_detection_SVM-Support_vector_machin
 we want to solve a problem By  Supervised learning technique 
 
 ## we use a data set From Scikitlearn library
